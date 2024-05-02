@@ -1,1 +1,1 @@
-# Senior-Project
+# Optimizing Bipedal Locomotion
